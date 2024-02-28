@@ -1,0 +1,12 @@
+{
+  "name": "cv-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for creating and managing CVs",
+  "main": "module/convertToPDF2.js",
+  "scripts": {
+    "start": "node module/convertToPDF2.js"
+  },
+  "dependencies": {
+    "puppeteer": "^1.0.2"
+  }
+}
