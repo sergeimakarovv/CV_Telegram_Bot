@@ -16,18 +16,6 @@ At the end, the bot provides an output **PDF file** with CV information.
 - HTML/CSS
 - Docker
 
-## **Why this project?**
-
-This project was assigned to me as a part of **Entrepreneurship course in my Master's program at the UE for Applied Sciences**. 
-
-With my team including other groupmates, we needed to create any relevant business model. 
-We decided to develop a **Telegram bot** for CV creation. **Why?**
-
-- A lot of employees, especially young professionals, struggle with designing their CV and demonstrating their strenghts in a concise way. 
-- Existing online resources for creating a resume generally lack UX/UI in mobile versions.
-- There is a concern about data security issues on such resources.
-
-Thus, the **CV Bot** aims to provide user-friendly, reliable step-by-step guide to creating user's CV. 
 
 ## **Project overview**
 
